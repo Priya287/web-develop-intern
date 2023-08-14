@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang ="en"> 
+<head>  
+  <title> Lionel Messi </title>
+  <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+</head>
+<body>
+  <h1>LIONEL MESSI </h1> 
+  <br><h3><em> "You have  to fight to reach your <span style="color: #883A52">dreams</span> You have to sacrifice and work hard for it."</em></h3> 
+ <br><img src=  https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg
+class="responsive">
+  
+ <br><p style="font-size:2vw;"> Lionel Messi is a football player from Argentina who plays for FC Barcelona.</p>
+  <br><p style="background-color:black; color:white;">Here is a timeline of lio Messi life events:</p> 
+  <ul style="font-size:2vw;"> 
+    <li>1984:Leo Messi was born in 24 of June of 1984</li>
+    <li>1995:Messi joined to play for the local team, Newell's Old boys in Rosario</li> 
+    <li>1998:At the age of 11, he was diagnosed with a growth hormone deficiency</li> 
+    <li>2000:Messi signs with legendary team FC Barcelona and works his way up through Barca's youth squads</li>  
+    <li>2003:Messi made his unofficial debut for FC Barcelona in a friendly match against FC Porto.</li> 
+    <l>2004:Messi made his official debut against RCD Espanyol</li> 
+    <li>2005:At the age of 18, Messi scored his first official goal and was the youngest player to score for FC Barcelona</li>
+    <li>2008:Messi gets married to childhood friend and girlfriend, Antonella Roccuzzo </li>
+    <li>2009:Messi wins FIFA World player of the year</li>
+    <li>2010: Messi wins his first Ballon D'or ( Golden Ball award )  </li>
+    <li>2011:Messi wins his second Ballon D'or (Golden Ball award)
+</li> 
+     
+  <li> 2012: Messi wins his third Ballon D'or ( Golden Ball award )</li> 
+    <li> 2013:Messi wins his fourth consecutive record- breaking Ballon D'or ( Golden Ball award ).</li> 
+    <li>  2014:Messi becomes the leading goalscorer in the European Champions League with 74 goals in 91 appearances. </li> 
+    <li>2016:Top Scorer with Argentina National Team</li> 
+  <li> 2017:500 goals with Barcelona</li>
+<li>  2019:6th Ballon d'Or</li> 
+    <li>  2020:Messi surpassed Brazilian legend Pele record for most goals with a single club, scoring his 644th goal in all competitions for Barcelona. Pele scored 643 with Santos in his native country, a record that stood for 46 years until Messi broke it in the 0-3 victory over Real Valladolid.</li> 
+    <li>   2021:Argentina won against Brazil 1-0 in Copa America final 2021 to secure the national team’s first title in 28 years and Messi’s first major international trophy. Messi was named the player of the tournament, best goalscorer with 4 goals (shared with Luis Diaz) and most assists given (5).On 29 November 2021 Messi won his seventh Ballon d'Or. He helped the Argentina win the 2021 Copa America and he scored 40 goals for club and national team in all competitions.</li> 
+    <li> 2022:In the 2022 FIFA World Cup final, Messi made his record 26th World Cup finals appearance at Lusail Stadium</li> 
+    </ul>
+   <br><p style="background-color:black; color:white;">Messi, who broke many records in the tournament also won the Golden Ball as the best player with 7 goals and 3 assists."</p> 
+<img src="https://live-production.wcms.abc-cdn.net.au/539e1f3cf246c4105059221e49b14f9f?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=82&width=862&height=485"
+          alt="The 2022 FIFA World Cup" class="responsive">
+  <br><h3><em> "I start early and I stay late, day after day, year after year. It took me 17 years and 114 days to become an overnight success."</em></h3> 
+</body>  
+ body{
+  margin-top:60px;
+  margin-bottom:60px;
+}
+
+h1{
+  text-align: center;
+  font-size: 70px;
+  font-family: 'Varela Round', sans-serif;
+  } 
+
+h3{
+  text-align: center;
+  font-size: 22px;
+}
+
+.responsive{
+  max-width: 100;
+  height: Auto; 
+  margin-left: Auto; 
+  margin-right: Auto; 
+  display: block;
+}
+p {
+  text-align: center;
+  /* I went with this but decided that it looks better with a background color instead
+  border: 3px solid #151515;
+  border-radius: 10px; */
+  margin-left: 150px;
+  margin-right: 150px;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 18px;
+ } 
+ul {
+  text-align: left;
+  margin-left: 150px;
+  margin-right: 150px;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 18px; 
+  background-color:black;
+  color:white;
+ } 
+
+
+ 
+  
+  
